@@ -1,4 +1,4 @@
-# Exercicio 
+## Exercício 
 Criar uma API com Node.js e Testando essa API com o Postman
 
 ## Sobre o Exercicio
