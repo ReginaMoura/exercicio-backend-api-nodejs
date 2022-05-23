@@ -16,8 +16,8 @@ git clone  https://github.com/ReginaMoura/exercicio-backend-api-nodejs.git
 ## Executar o comando npm install, para instalar as dependencias do projeto.
 OBS.: Dependencias declaradas no arquivo "Package.json".
 
-## Executar o projeto npm run dev para executar o projeto para apontar o ambiente local.
-## Executar npm start para executar o projeto apontando para o banco de dados de produção.
+## Executar o projeto "npm run" dev para executar o projeto para apontar o ambiente local.
+## Executar "npm start" para executar o projeto apontando para o banco de dados de produção.
 
 ```   
 ### Autor  
