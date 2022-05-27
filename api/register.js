@@ -8,7 +8,7 @@ const registerSchema = new mongoose.Schema({
    mail: { type: String, required: true },
    phone: { type: String, required: false },
    address: { type: String, required: true },
-   number: { type: Number, required: false },
+   number: { type: String, required: false },
    complement: { type: String, required: false }
 })
 
