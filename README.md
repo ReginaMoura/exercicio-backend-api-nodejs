@@ -2,7 +2,7 @@
 Criar uma API com Node.js e Testando essa API com o Postman
 
 ## Sobre o Exercicio
-Exercício Prático sobre o Projeto de API desenvolvido durante aulas do **Modulo 2 Turma-t7**, curso organizado pelo William Silva [Qa.Coders] (https://qacoders.com "Site da Qa.Coders"). com William Alves da SIlva Qa.Coders
+Exercício Prático sobre o Projeto de API desenvolvido durante aulas do **Modulo 2 Turma-t7**,[Qa.Coders] (https://qacoders.com "Site da Qa.Coders"). com William Alves da SIlva Qa.Coders
 
 ## Pré Requisitos 
 - NodeJS 
