@@ -5,7 +5,7 @@ module.exports = function (server) {
     server.use("/api", protectedApi);
 
     server.use("/status", (req, res) =>
-        res.send(`BACKEND is runner esta rodando 19hrs48.`)
+        res.send(`BACKEND is runner esta rodando 20hrs45.`)
     );
 
     const register = require('../api/registerService');

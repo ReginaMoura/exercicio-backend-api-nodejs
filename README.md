@@ -2,14 +2,14 @@
 Criar uma API com Node.js e Testando essa API com o Postman
 
 ## Sobre o Exercicio
-Exercício Prático sobre o Projeto de API desenvolvido em aula.
+Exercício Prático sobre o Projeto de API desenvolvido durante aulas do **Modulo 2 Turma-t7**, curso organizado pelo William Silva [Qa.Coders] (https://qacoders.com "Site da Qa.Coders"). com William Alves da SIlva Qa.Coders
 
 ## Pré Requisitos 
 - NodeJS 
 - MongoDB 
 - Express  
 
-# Instalando as dependencias e como executar o projeto  
+# Instalando as dependências e como executar o projeto  
 ```bash 
 ## Clonar repositório 
 git clone  https://github.com/ReginaMoura/exercicio-backend-api-nodejs.git
