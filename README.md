@@ -1,8 +1,11 @@
 ## Exercício 
 Criar uma API com Node.js e Testando essa API com o Postman
-
 ## Sobre o Exercicio
-Exercício Prático sobre o Projeto de API desenvolvido durante aulas do **Modulo 2 Turma-t7**,[Qa.Coders] (https://qacoders.com "Site da Qa.Coders"). com William Alves da SIlva Qa.Coders
+Exercício Prático sobre o Projeto de API desenvolvido durante aulas do Curso "Quality Assurance " **Modulo 2 Turma-t7**,[Qa.Coders] (https://qacoders.com "Site da Qa.Coders"). com William Alves da Silva;
+O exercicio consiste em entender como funciona uma API e o BACKEND, dá para brincar utilizando a ferramenta do "Postman" e não depender de uma API da internet. 
+Com esse projeto você pode construir outras APIS seguindo esse como modelo para realizar os testes. 
+Você pode construiir APIS, fazer as regras de negócio, sem precisar procurar um ambiente ou uma API na Web.  
+Para fazer automação, esse modelo facilita. 
 
 ## Pré Requisitos 
 - NodeJS 
